@@ -222,16 +222,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Below is the ordered task list to implement this Weather API Wrapper project from scratch:
 
 ### Phase 1: Foundation Setup
-- [ ] **1.1** Set up project structure and dependencies
+- [x] **1.1** Set up project structure and dependencies
   - Configure solution file and project references
   - Add required NuGet packages (Redis, HTTP Client, Configuration, etc.)
   - Set up project dependencies between layers
 
 ### Phase 2: Domain Layer Implementation
-- [ ] **2.1** Create Domain Entities
+- [x] **2.1** Create Domain Entities
   - `WeatherData` entity with properties (Temperature, Humidity, etc.)
   - `Location` value object for city/country information
-  - `WeatherCondition` value object for weather descriptions
 
 - [ ] **2.2** Define Domain Interfaces
   - `IWeatherService` interface for weather operations
