@@ -232,7 +232,7 @@ Below is the ordered task list to implement this Weather API Wrapper project fro
   - `WeatherData` entity with properties (Temperature, Humidity, etc.)
   - `Location` value object for city/country information
 
-- [ ] **2.2** Define Domain Interfaces
+- [x] **2.2** Define Domain Interfaces
   - `IWeatherService` interface for weather operations
   - `ICacheService` interface for caching operations
   - Common result patterns and exceptions
